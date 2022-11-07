@@ -11,7 +11,7 @@ Live Demo:- https://youtube.com/shorts/7BQ4vTRFP98?feature=share
 - It also stores catch of applications it can run further in future without internet.
 
 
-## Contributed
+## Contributor
  GitHub id:- @kadamprashant1
 
 Please make sure to update tests as appropriate.
